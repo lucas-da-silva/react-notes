@@ -8,7 +8,7 @@
 
 ## Sobre
 
-Aplicação desenvolvida durante o evento da [Rocketseat](https://github.com/Rocketseat). O diferencial desse app de notas é a utilização da API SpeechRecognition para gravar áudio em tempo real e converter em texto, funcionando na maioria dos navegadores.
+Aplicação desenvolvida durante o evento da [Rocketseat](https://github.com/Rocketseat), onde adicionei algumas funcionalidades. O diferencial desse app de notas é a utilização da API SpeechRecognition para gravar áudio em tempo real e converter em texto, funcionando na maioria dos navegadores.
 
 ## Tecnologias
 

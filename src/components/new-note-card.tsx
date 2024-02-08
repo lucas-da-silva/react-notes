@@ -71,7 +71,9 @@ export function NewNoteCard({ onNoteCreated }: NewNoteCardProps) {
       setContent(transcription);
     };
 
-    speechRecognition.onerror = (event) => {};
+    speechRecognition.onerror = (event) => {
+      console.error("Ocorreu um erro:", event.error);
+    };
 
     speechRecognition.start();
   }
